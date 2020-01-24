@@ -1,0 +1,9 @@
+net/sauray/bank/impl/application/BankControllerImpl.class
+net/sauray/bank/impl/domain/commands/WithdrawMoneyCommand.class
+net/sauray/bank/impl/domain/events/MoneyWithdrawnPrivateEvent.class
+net/sauray/bank/impl/domain/events/BankPrivateEvent.class
+net/sauray/bank/impl/domain/BankAccountEntity.class
+net/sauray/bank/impl/domain/commands/BankCommand.class
+net/sauray/bank/impl/application/BankModule.class
+net/sauray/bank/impl/domain/BankAccountAggregate.class
+net/sauray/bank/impl/domain/state/BankAccountState.class
