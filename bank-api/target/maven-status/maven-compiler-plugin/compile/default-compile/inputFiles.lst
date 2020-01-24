@@ -1,0 +1,4 @@
+/Users/antoinesauray/Projects/lagom-java-example/bank-api/src/main/java/net/sauray/bank/api/application/WithdrawRequest.java
+/Users/antoinesauray/Projects/lagom-java-example/bank-api/src/main/java/net/sauray/bank/api/domain/events/BankEvent.java
+/Users/antoinesauray/Projects/lagom-java-example/bank-api/src/main/java/net/sauray/bank/api/domain/events/MoneyWithdrawnEvent.java
+/Users/antoinesauray/Projects/lagom-java-example/bank-api/src/main/java/net/sauray/bank/api/application/BankController.java

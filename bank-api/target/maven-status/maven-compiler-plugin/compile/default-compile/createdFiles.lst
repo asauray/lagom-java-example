@@ -1,0 +1,3 @@
+net/sauray/bank/api/domain/events/BankEvent.class
+net/sauray/bank/api/application/WithdrawRequest.class
+net/sauray/bank/api/domain/events/MoneyWithdrawnEvent.class

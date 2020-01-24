@@ -1,0 +1,6 @@
+.gradle
+target
+bank-api/bin
+bank-api/target
+bank-impl/bin
+bank-impl/target
